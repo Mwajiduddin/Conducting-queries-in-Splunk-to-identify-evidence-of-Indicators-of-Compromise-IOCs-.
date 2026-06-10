@@ -1,6 +1,7 @@
 <h1 align="center">Conducting queries in Splunk to identify evidence of Indicators of Compromise IOCs</h1>
 
-Starting off from the dashboard, we see that there are multiple types of alerts displayed coming from both Suricata (an IDS and IPS platform) and Fortigate (a next-gen firewall (NGFW)).
+
+In this lab from SBT’s Blue Team Level 1 course we’ll be starting off from the dashboard and we can see that there are multiple types of alerts displayed coming from both Suricata (an IDS and IPS platform) and Fortigate (a next-gen firewall (NGFW)).
 <p align="center">
 <img src="https://github.com/Mwajiduddin/Conducting-queries-in-Splunk-to-identify-evidence-of-Indicators-of-Compromise-IOCs-./blob/main/Screenshot%202026-06-09%20170455.png" />
 </p>
